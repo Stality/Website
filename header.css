@@ -123,7 +123,14 @@
 .h__slogan--btn {
     font-size: 25px;
     color: white;
-    border-bottom: 3px solid #ff7300 ; 
+    border-bottom: 3px solid #52FF00 ; 
+    display: inline;
+    z-index: 1000;
+}
+
+.h__slogan--btn2{
+    font-size: 25px;
+    color: white;
     display: inline;
     z-index: 1000;
 }
